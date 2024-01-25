@@ -9,3 +9,11 @@ header {
   height: 100%;
   position: relative;
 }
+
+/* =============== CTA ============== */
+.cta {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 1.2rem;
+  justify-content: center;
+}
