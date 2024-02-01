@@ -24,13 +24,13 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail className='contact__option-icon'/>
+            <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>tzuchiangchan@gmail.com</h5>
             <a href="mailto:tzuchiangchan@gmail.com" target="_blank">Send an email</a>
           </article>
           <article className="contact__option">
-            <BsWhatsapp className='contact__option-icon'/>
+            <BsWhatsapp className='contact__option-icon' />
             <h4>Call</h4>
             <h5>646-651-2532</h5>
             <a href="tel:+6466512532" target="_blank">Call me</a>
